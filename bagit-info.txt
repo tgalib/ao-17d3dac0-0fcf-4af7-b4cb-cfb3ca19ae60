@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Three girls at Tuesday sports event
+External-Identifier: 17d3dac0-0fcf-4af7-b4cb-cfb3ca19ae60
+
